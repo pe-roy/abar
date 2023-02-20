@@ -2,27 +2,21 @@
 layout: post
 title:  "Seja Bem Vindo!"
 date:   2023-02-19 17:07:51 -0300
-categories: jekyll update
+categories: jekyll update github dns pages
 ---
-Apenas um teste. Mas promete!
+Após um período de ausência resolvi resgatar a ideia do site. Estava parado efetivamente desde julho de 2021, quando comecei a trabalhar na Brisa robótica e o trabalho absorveu muito do tempo livre, com o site ficando como última prioridade.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+O fato é que nessa nova fase, utilizando o dominio abarlavento e o github como hospedagem, a inserção de posts ficará muito simples e fácil.
 
-Jekyll requires blog post files to be named according to the following format:
+Perguntei-me diversas vezes qual a relevância de um post de blog na aurora da inteligência artificial, como o chatgpt e etc. Não tenho resposta, mas entendo que a relevância é mais para mim do que para o resto do mundo. As pessoas podem utilizar e copiar o chatGPT, mas o valor de uma ideia humana permanece relevante.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Assim, vamos ver como as coisas ficam daqui pra frente.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+O site utiliza github e jekyll, com o tema minima. os links estão abaixo. A conexão de um dominio próprio com o github pages é simples, não intuitiva, mas basta seguir a documentação e esperar. 
 
-Jekyll also offers powerful support for code snippets:
+Ao mudar o DNS no seu provedor de dominio, pode demorar até 24 horas e durante esse período realmente nada funciona. Só depois da propagação é que o site passa a ser e estar conectado ao github.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Até logo
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

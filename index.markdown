@@ -4,4 +4,6 @@
 
 layout: home
 ---
-Teste
+# Navegar é preciso
+
+Navegar é sonhar, ousar, planear, arriscar, empreender, realizar…

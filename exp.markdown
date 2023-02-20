@@ -43,6 +43,7 @@ permalink: /exp/
 * Palestras e disseminação de conhecimento.
 
 **ABB Robotics**, São Paulo 
+
 *Coordenador de Projetos, Automação e Controle - Automotiva, embalagens e alimentícia*
 
 *Julho, 2008 - Dezembro, 2020*

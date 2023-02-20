@@ -23,7 +23,7 @@ email: paulo.royer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Experiências. Todas, de trabalho, de aprendizado e de vida. Um relato sincero, um olhar para o futuro com os pés no presente e raízes no passado.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pe-roy.github.io/abar/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.abarlavento.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pe-roy
 github_username:  pe-roy
 

@@ -12,7 +12,7 @@ Perguntei-me diversas vezes qual a relevância de um post de blog na aurora da i
 
 Assim, vamos ver como as coisas ficam daqui pra frente.
 
-O site utiliza github e jekyll, com o tema minima. os links estão abaixo. A conexão de um dominio próprio com o github pages é simples, não intuitiva, mas basta seguir a documentação e esperar. 
+O site utiliza github e jekyll, com o tema minima. os links estão abaixo. A conexão de um dominio (www.abarlavento.com) próprio com o github pages é simples, não intuitiva, mas basta seguir a documentação e esperar. 
 
 Ao mudar o DNS no seu provedor de dominio, pode demorar até 24 horas e durante esse período realmente nada funciona. Só depois da propagação é que o site passa a ser e estar conectado ao github.
 

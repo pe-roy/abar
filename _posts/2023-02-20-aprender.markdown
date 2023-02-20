@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Aprender"
+date:   2023-02-20 16:00:00 -0300
+categories: aprendizado aprender continuamente github 
+---
+
+Aprendi algumas coisas desde ontem. Não que as tenha aprendido definitivamente, porém sou capaz de fazer novamente sem a necessidade de partir de zero conhecimento.
+
+Na verdade, para que possamos dizer que um conhecimento foi de fato **aprendido**, devemos ser capazes de reproduzí-lo quando solicitados, sem consulta, isto é, *de cor*.
+
+Para publicar um site estático no github e conectá-lo a um subdomínio próprio são necessários muitos passos que devem ser seguido de forma cuidadosa para que ao fim o site esteja devidamente operacional.
+
+A maior dificuldade foi justamente o tempo de propagação do servidor DNS, que necessita uma espera de até 24 horas. Tudo fora feito conforme os tutoriais, porém, ainda não havia a propagação e o endereço não era corretamente apontado para o lugar correto, com o site fora do ar.
+
+Isso era mais de meia noite, e seguindo uma última orientação de alguém que passou por esse problema, fui dormir. Em tempo, a orientação era que não adiantava fazer nada, apenas esperar, um tempo de entre quatro e seis horas, mas que teoricamente poderia levar as vinte e quatro. Para surpresa minha, no outro dia, o site funcionava corretamente conectado.
+
+É pena que as ferramentas de validação só funcionem após o tempo, isto é, poderiam informar algo relacionado ao tempo de propagação do servidor DNS. Você fica como que achando que há algum erro, principalmente se for a primeira vez, e fazia muito tempo que eu não mexia com GitHub.
+
+Deixo isso como um alerta, pois em informática estamos acostumados a tempos mínimos, em que esperar dez segundos para compilar algum arquivo é um tempo enorme, que dirá esperar vinte e quatro horas para só então saber se está correto.
+
+Ao final também aprendi algumas funções matemáticas do curso de pré-cálculo e resolução de problemas da Arizona State University. O que mais tenho me interessado é com as funções trigonométricas, as relações fundamentais nos triângulos e as relações entre seno, cosseno, tangente, cossecante, secante e cotangente.
+
+Usei recentemente no trabalho a relação entre o ângulo do arco descrito por uma trajetória e o ângulo equivalente ackerman que permite esse ângulo. Foi uma aplicação prática que permitiu ler o valor de um sensor montado em um eixo excêntrico, onde falarei mais adiante.
+
+Também os livros ensinam. Leio hoje as cartas de Mandela durante o tempo que estev preso por vinte e sete anos.
+
+Uma sutil lembrança de nossos problemas.

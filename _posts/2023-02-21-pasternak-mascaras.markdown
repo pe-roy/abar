@@ -13,4 +13,5 @@ Extremamente relevante o artigo de opinião da doutora no O Globo, uma prova de 
 
 Uma aula.
 > Em ambientes controlados, como hospitais, os profissionais sabem como usar, quando trocar a máscara. As condições de umidade e temperatura são controladas. No cotidiano, na rua, no ônibus, as pessoas usam com o nariz para fora, tiram para conversar — para tossir, espirrar — e não trocam de máscara com a frequência necessária.
+
 [O Globo - Máscaras]: https://oglobo.globo.com/blogs/a-hora-da-ciencia/post/2023/02/usar-ou-nao-usar-mascaras.ghtml

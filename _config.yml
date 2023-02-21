@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Experiências. Todas, de trabalho, de aprendizado e de vida. Um relato sincero, um olhar para o futuro com os pés no presente e raízes no passado.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pe-roy
+twitter_username: Paulo40265024
 github_username:  pe-roy
+linkedin_username: proyer
 
 # Build settings
 theme: minima

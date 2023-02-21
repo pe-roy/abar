@@ -3,7 +3,9 @@ layout: post
 title:  "Esperança"
 date:   2023-02-20 12:00:00 -0300
 categories: esperança ano novo carnaval
+author: paulo
 ---
+*publicado em 2/jan/2021*
 
 Somos apaixonados por perspectivas, por previsões e adivinhações ou prognósticos. Muito do que somos hoje e o que de fato nos trouxe até aqui é devido a análise de perspectivas.
 **Yuval Harari** teve um insight muito pertinente ao descrever a passagem de uma sociedade coletora e caçadora para uma sociedade agrária.

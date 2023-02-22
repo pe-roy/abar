@@ -5,6 +5,10 @@ permalink: /about/
 ---
 # Paulo Royer
 {: .intro }
+**A barlavento** é um termo náutico que indica que o vento é contrário ao deslocamento que se deseja empreender com o barco durante a navegação. No passado, barcos só podiam navegar mediante a força dos ventos e podemos imaginar o que significava ter de esperar um vento a favor. Navegar a barlavento significa, portanto, navegar contra o vento, com velas dispostas a 45 graus, descrevendo uma trajetória em zigue-zague, mas que permite avançar, mesmo que o vento esteja contrário.
+
+Evidentemente nem sempre temos vento a favor, *a sotavento*, e, nesses casos onde o vento está *a barlavento*, é bom saber técnicas de navegação com vento contrário.
+
 Meu principal impacto é pela percepção do que poderia ser, a empolgação sobre a combinação entre pessoas, ou de pessoas e tecnologias/projetos/ideias.
 
 Reúno as pessoas em uma equipe rapidamente. Uma vez que sou capaz de *"agregar"* as pessoas com tanta rapidez, torno as equipes e as organizações mais fortes em menos tempo.
@@ -27,8 +31,4 @@ Hoje trabalho com automação de armazéns através de robôs móveis autônomos
 
 Também projeto e especifico equipamentos industriais de automação, como braços robóticos, segurança de máquinas, além da viabilidade financeira de projetos, através do cálculo de tempo de utilização.
 
-Finalizo essa seção *sobre* com minhas paixões: os números e as letras. Números através da matemática, a mais bela das ciências, e letras, por meio de livros que me permitiram enxergar mais longe, como se, através deles, me apoiasse sobre ombros de gigantes. 
-
-**A barlavento** é um termo náutico que indica que o vento é contrário ao seu deslocamento. Navegar a barlavento significa, portanto, navegar contra o vento, com velas dispostas a 45 graus, descrevendo uma trajetória em zigue-zague, mas que permite avançar, mesmo que o vento esteja contrário.
-
-Evidentemente nem sempre temos vento a favor, *a sotavento*, e, nesses casos onde o vento está *a barlavento*, é bom saber técnicas de navegação com vento contrário.
+Finalizo essa seção *sobre* com minhas paixões: os números e as letras. Números através da matemática, a mais bela das ciências, e letras, por meio de livros que me permitiram enxergar mais longe, como se, através deles, me apoiasse sobre ombros de gigantes.

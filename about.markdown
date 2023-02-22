@@ -11,7 +11,7 @@ Reúno as pessoas em uma equipe rapidamente. Uma vez que sou capaz de *"agregar"
 
 Sou um pesquisador de fatos, tecnologias e produtos. Cada novo aprendizado é como uma **matéria-prima** que poderei usá-lo para gerar uma nova combinação de pessoas/produtos/ideias.
 
-Trabalho com automação eletrônica desde 1996 utilizando circuitos eletrônicos para automatizar máquinas injetoras de plástico. A década de 1990 vivia um **boom** de novidades oriundas do exterior uma vez que a reserva de marcado havia sido extinta havia pouco tempo. Assim, máquinas e equipamentos estvam defasados tecnologicamente e precisavam urgentemente de automação que fosse flexível e confiável e segura.
+Trabalho com automação eletrônica desde 1996 utilizando circuitos eletrônicos para automatizar máquinas injetoras de plástico. A década de 1990 vivia um **boom** de novidades oriundas do exterior uma vez que a reserva de mercado havia sido extinta havia pouco tempo. Assim, máquinas e equipamentos estavam defasados tecnologicamente e precisavam urgentemente de automação que fosse flexível e confiável e segura.
 
 Nesse período fui professor do **senai CFP "Ney Damasceno Ferreira"**, para eletricidade geral e eletrônica para turmas de jovens e adultos.
 
@@ -21,13 +21,13 @@ No inicio do segundo milênio a Ford Motor Company se instala na Bahia, na cidad
 
 Acabei participando de inúmeros projetos na indústria automotiva e Tiers, como Renault, Volvo, Scania, Ford, Aethra, Gestamp, Sodecia, Magna-Cosma, ao longo de duas décadas.
 
-Com a pandemia houve o congelamento dos investimentos e realinhamento geral de estratégias, que provocou saída de empresas e fechamento de postos de trabalho. Nesse momento continuei trabalhando com projetos de automação em áreas diferentes, que eu nem pensaria ser capaz.
+Com a pandemia houve o congelamento dos investimentos e realinhamento geral de estratégias, que provocou saída de empresas e o fechamento de postos de trabalho. Nesse momento continuei trabalhando com projetos de automação em áreas diferentes, que eu nem pensaria ser capaz.
 
 Hoje trabalho com automação de armazéns através de robôs móveis autônomos, por meio da tecnologia SLAM, que dispensam fitas no chão ou espelhos laser em colunas, minimizando a necessidade de modificações e infraestrutura, e integrados com os sistemas SAP.
 
 Também projeto e especifico equipamentos industriais de automação, como braços robóticos, segurança de máquinas, além da viabilidade financeira de projetos, através do cálculo de tempo de utilização.
 
-Finalizo essa seção *sobre* com minhas paixões: os números e as letras. Números através da matemática, a mais bela das ciências, e letras, por meio de livros que me permitiram enxergar mais longe, como se, através deles, me apoaisse sobre ombros de gigantes. 
+Finalizo essa seção *sobre* com minhas paixões: os números e as letras. Números através da matemática, a mais bela das ciências, e letras, por meio de livros que me permitiram enxergar mais longe, como se, através deles, me apoiasse sobre ombros de gigantes. 
 
 **A barlavento** é um termo náutico que indica que o vento é contrário ao seu deslocamento. Navegar a barlavento significa, portanto, navegar contra o vento, com velas dispostas a 45 graus, descrevendo uma trajetória em zigue-zague, mas que permite avançar, mesmo que o vento esteja contrário.
 

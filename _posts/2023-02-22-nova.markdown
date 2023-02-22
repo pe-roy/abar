@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Aprendizado, Conhecimento e outras coisas"
 date:   2023-02-22 11:07:51 -0300
 categories: aprender habilidade conhecimento

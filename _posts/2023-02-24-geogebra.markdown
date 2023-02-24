@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Geogebra"
+date:   2023-02-24 08:07:51 -0300
+categories: matematica geogebra 
+author: paulo
+---
+
+# O que é o GeoGebra?
+
+O GeoGebra é um software de matemática dinâmica gratuito e multiplataforma para todos os níveis de ensino, que combina geometria, álgebra, tabelas, gráficos, estatística e cálculo numa única aplicação. Tem recebido vários prêmios na Europa e EUA.
+
+GeoGebra foi criado em 2001 como tese de Markus Hohenwarter e a sua popularidade tem crescido desde então. 
+
+Atualmente, o GeoGebra é usado em 190 países, traduzido para 55 idiomas, são mais de 300000 downloads mensais, 62 Institutos GeoGebra em 44 países para dar suporte para o seu uso.
+
+Além disso, recebeu diversos prêmios de software educacional na Europa e nos EUA, e foi instalado em milhões de laptops em vários países ao redor do mundo.
+
+O download pode ser feito em [geogebra.org][geo]
+
+[geo]:https://www.geogebra.org/download?lang=en

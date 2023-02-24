@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Points and the Circle"
-date:   2023-02-24 09:07:51 -0300
+date:   2023-02-24 10:07:51 -0300
 categories: matematica geogebra 
 author: paulo
 ---

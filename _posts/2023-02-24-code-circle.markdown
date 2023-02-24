@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3 Points and the Circle"
+title:  "3 Points and the Circle - CODE"
 date:   2023-02-24 10:07:51 -0300
 categories: matematica geogebra 
 author: paulo

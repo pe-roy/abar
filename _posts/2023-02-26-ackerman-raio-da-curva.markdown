@@ -377,7 +377,7 @@ author: paulo
             Ackerman.</span></p>
     <p class="c1"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 553.28px; height: 309.84px;"><img
-                alt="" src="images/image6.png"
+                alt="" src="docs/images/image6.png"
                 style="width: 553.28px; height: 309.84px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c1"><span>Isso torna-se um problema na empilhadeira pois o sensor que monitora a posi&ccedil;&atilde;o do
@@ -387,12 +387,12 @@ author: paulo
             observa quando a curva for feita para o lado oposto.</span></p>
     <p class="c1"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 692.50px; height: 260.27px;"><img
-                alt="" src="images/image8.png"
+                alt="" src="docs/images/image8.png"
                 style="width: 692.50px; height: 260.27px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c1"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 667.50px; height: 278.46px;"><img
-                alt="" src="images/image7.png"
+                alt="" src="docs/images/image7.png"
                 style="width: 667.50px; height: 278.46px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c1 c2"><span class="c0"></span></p>
@@ -411,12 +411,12 @@ author: paulo
     <p class="c1 c2"><span class="c0"></span></p>
     <p class="c1"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 588.50px; height: 312.21px;"><img
-                alt="" src="images/image10.png"
+                alt="" src="docs/images/image10.png"
                 style="width: 588.50px; height: 312.21px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c1"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.50px; height: 98.61px;"><img
-                alt="" src="images/image9.png"
+                alt="" src="docs/images/image9.png"
                 style="width: 624.50px; height: 98.61px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c1"><span class="c4"><a class="c5"
@@ -431,22 +431,22 @@ author: paulo
     <p class="c1"><span class="c0">Esse &acirc;ngulo &#x1d7a1; &eacute; o &acirc;ngulo de inclina&ccedil;&atilde;o da
             roda central ou equivalente &agrave; geometria Ackermann, como se fosse um triciclo. Ele &eacute; calculado
             pela fun&ccedil;&atilde;o:</span></p>
-    <p class="c1"><img src="images/image1.png"></p>
-    <p class="c1"><img src="images/image2.png"><span class="c7">: Theta Ackerman equivalente</span></p>
+    <p class="c1"><img src="docs/images/image1.png"></p>
+    <p class="c1"><img src="docs/images/image2.png"><span class="c7">: Theta Ackerman equivalente</span></p>
     <p class="c1"><span class="c0">L: Dist&acirc;ncia entre eixos</span></p>
     <p class="c1"><span class="c0">R: Raio do giro </span></p>
     <p class="c1 c2"><span class="c0"></span></p>
     <p class="c1"><span class="c0">O &acirc;ngulo da roda interna &agrave; curva, que faz uma circunfer&ecirc;ncia de
             raio menor, &eacute; calculado pela fun&ccedil;&atilde;o:</span></p>
-    <p class="c1"><img src="images/image3.png"></p>
-    <p class="c1"><img src="images/image4.png"><span class="c7">: Theta interno</span></p>
+    <p class="c1"><img src="docs/images/image3.png"></p>
+    <p class="c1"><img src="docs/images/image4.png"><span class="c7">: Theta interno</span></p>
     <p class="c1"><span class="c0">L: Dist&acirc;ncia entre eixos</span></p>
     <p class="c1"><span class="c0">R: Raio do giro</span></p>
     <p class="c1"><span class="c0">T: Dist&acirc;ncia entre rodas</span></p>
     <p class="c1 c2"><span class="c0"></span></p>
     <p class="c1"><span>O &acirc;ngulo da roda externa a curva, que faz uma circunfer&ecirc;ncia de raio maior, &eacute;
-            calculado pela fun&ccedil;&atilde;o </span><img src="images/image5.png"></p>
-    <p class="c1"><img src="images/image2.png"><span class="c7">: Theta externo</span></p>
+            calculado pela fun&ccedil;&atilde;o </span><img src="docs/images/image5.png"></p>
+    <p class="c1"><img src="docs/images/image2.png"><span class="c7">: Theta externo</span></p>
     <p class="c1"><span class="c0">L: Dist&acirc;ncia entre eixos</span></p>
     <p class="c1"><span class="c0">R: Raio do giro</span></p>
     <p class="c1"><span class="c0">T: Dist&acirc;ncia entre rodas</span></p>

@@ -20,4 +20,4 @@ Não é razoável encarar a I.A. como algo nocivo, que irá prejudicar a humanid
 
 Para quem deseja aprender algum conhecimento, a IA, nos moldes do CHATGPT, permite inclusive criar uma discussão com perguntas que esclareçam ou aprofundem determinado tópico, seja em gramática, seja em matemática, e mesmo em matéria de IA.
 
-Ferramentas são como calculadoras, caso não se saiba o que fazer com elas, são inúteis. Saber o que fazer com a IA é próximo passo na evolução da IA.
+Ferramentas são como calculadoras, caso não se saiba o que fazer com elas, são inúteis. Saber o que fazer com a IA é próximo passo na evolução da humanidade.

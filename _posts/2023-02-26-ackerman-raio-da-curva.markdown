@@ -370,7 +370,7 @@ author: paulo
     <p class="c16 title" id="h.gjdgxs"><span class="c8">Defini&ccedil;&atilde;o do raio de curva e do &acirc;ngulo de
             ataque atrav&eacute;s de tr&ecirc;s pontos</span></p>
     <p class="c1 c2"><span class="c0"></span></p>
-    <p class="c1"><span>A empilhadeira do projeto </span><span>Indorama</span><span class="c0">&nbsp;utiliza um sistema
+    <p class="c1"><span>Ao obter os dados de medição do sensor da roda de uma empilhadeira elétrica </span><span></span><span class="c0">&nbsp;observamos que ela utiliza um sistema
             de dire&ccedil;&atilde;o pivotado exc&ecirc;ntrico de forma a compensar a diferen&ccedil;a angular nas duas
             rodas traseiras quando operando em curvas. Assim, o &acirc;ngulo observado &eacute; diferente, de acordo com
             qual roda est&aacute; no lado interno da curva. Corresponde efetivamente ao conceito da geometria de

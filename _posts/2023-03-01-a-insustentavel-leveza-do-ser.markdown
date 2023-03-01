@@ -4,7 +4,7 @@ title:  "A Insustentável Leveza do Ser"
 date:   2023-03-01 16:50:00 -0300
 categories: literatura livros 
 ---
-A leveza do ser é insustentável per si. Traz consigo uma capacidade de entendimento sem tamanho, como se um elefante estava na sala e nunca houve de ser notado. De repente ele está alí, é a realidade, sempre esteve, há essa consciência e vida que segue.
+A leveza do ser é insustentável per si. Traz consigo uma capacidade de entendimento sem tamanho, como se um elefante estivesse na sala e nunca houvesse de ser notado. De repente ele está alí, é a realidade, sempre esteve, há essa consciência e vida que segue.
 
 Há problemas, há soluções ou não, se viverá talvez não do mesmo jeito mas se viverá. Essa conciência é a insustentável leveza do ser, impensável, inefável, mas alí, sempre, como o elefante na sala.
 

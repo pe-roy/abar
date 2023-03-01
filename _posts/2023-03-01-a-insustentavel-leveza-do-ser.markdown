@@ -10,7 +10,7 @@ Há problemas, há soluções ou não, se viverá talvez não do mesmo jeito mas
 
 Se perder tudo, tendo que trabalhar como um lavador de janelas ou limpador de tapetes, impensável, ser obrigado a correr, a manter a corrida, a trabalhar... De repente acontece, não há o que fazer, o elefante se mexeu.
 
-A vida segue, nós seguimos, melhor então seguir leve, tendo noção que é um fim do mundo é relativo apenas.
+A vida segue, nós seguimos, melhor então seguir leve, tendo noção que mesmo um fim do mundo é relativo apenas.
 
 A vida segue...
 

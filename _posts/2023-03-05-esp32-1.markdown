@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ESP32 sem arduino"
+date:   2023-03-05 16:50:00 -0300
+categories: MCU ESP32 
+---
+O ESP32 é um microcontrolador de baixo custo e baixo consumo de energia, desenvolvido pela empresa chinesa Espressif. Ele é um sucessor do popular ESP8266 e é usado em muitas aplicações IoT, como dispositivos de medição e controle, dispositivos vestíveis, automação residencial, sistemas de segurança, entre outros.
+
+O ESP32 possui dois núcleos de processamento, cada um com uma frequência de clock de até 240 MHz, oferecendo um desempenho significativamente melhor do que seu predecessor, o ESP8266. Ele também tem uma ampla gama de recursos de conectividade, incluindo Wi-Fi, Bluetooth LE, Ethernet e protocolos de comunicação sem fio como LoRa e Sigfox.
+
+Além disso, o ESP32 tem uma grande quantidade de memória RAM e flash, permitindo o armazenamento de dados e programas. Ele também suporta a execução de aplicativos em tempo real, multitarefa e tem vários periféricos integrados, como GPIOs, ADCs, DACs, PWMs, interfaces I2C, SPI, UART, entre outros.
+
+Devido às suas características avançadas e baixo custo, o ESP32 é uma excelente opção para projetos de IoT, especialmente aqueles que envolvem conectividade sem fio e sensores.

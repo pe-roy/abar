@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arte e Técnica"
+title:  "A Gente, Nós e Eu Mesmo"
 date:   2023-03-09 08:00:00 -0300
 categories: entrevista
 ---
@@ -25,33 +25,21 @@ Posso parafrasear Brecht, sem o talento e a força cognitiva: *Instalei mais de 
 Não tinha ninguém mais? Nem o pessoal da limpeza?
 
 ## Perguntas de um Operário Letrado
->...
-.
->O jovem Alexandre conquistou as Índias
->
->Sozinho?
->
->César venceu os gauleses.
->
->Nem sequer tinha um cozinheiro ao seu serviço?
->
->Quando a sua armada se afundou Filipe de Espanha
->
->Chorou. E ninguém mais?
->
->Frederico II ganhou a guerra dos sete anos
->
->Quem mais a ganhou?
->
->Em cada página uma vitória.
->
->Quem cozinhava os festins?
->
->Em cada década um grande homem.
->
->Quem pagava as despesas?
->
->Tantas histórias
+>...  
+>O jovem Alexandre conquistou as Índias  
+>Sozinho?  
+>César venceu os gauleses.  
+>Nem sequer tinha um cozinheiro ao seu serviço?  
+>Quando a sua armada se afundou Filipe de Espanha  
+>Chorou. E ninguém mais?  
+>Frederico II ganhou a guerra dos sete anos  
+>Quem mais a ganhou?  
+>Em cada página uma vitória.  
+>Quem cozinhava os festins?  
+>Em cada década um grande homem.  
+>Quem pagava as despesas?  
+>  
+>Tantas histórias  
 >Quantas perguntas
 
 ***Bertold Brecht***

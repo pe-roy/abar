@@ -22,22 +22,33 @@ Não fiz nada sozinho, sempre temos ou tivemos o suporte direto e indireto de mu
 
 Posso parafrasear Brecht, sem o talento e a força cognitiva: *Instalei mais de 200 robôs, programei mais de 200 PLC, startei mais de 200 vezes a fábrica da Ford em Camaçarí…*
 
-Não tinha ninguém mais? Nem um cozinheiro?
+Não tinha ninguém mais? Nem o pessoal da limpeza?
 
 ## Perguntas de um Operário Letrado
 >...
+.
 >O jovem Alexandre conquistou as Índias
+>
 >Sozinho?
+>
 >César venceu os gauleses.
+>
 >Nem sequer tinha um cozinheiro ao seu serviço?
+>
 >Quando a sua armada se afundou Filipe de Espanha
+>
 >Chorou. E ninguém mais?
+>
 >Frederico II ganhou a guerra dos sete anos
+>
 >Quem mais a ganhou?
 >
 >Em cada página uma vitória.
+>
 >Quem cozinhava os festins?
+>
 >Em cada década um grande homem.
+>
 >Quem pagava as despesas?
 >
 >Tantas histórias

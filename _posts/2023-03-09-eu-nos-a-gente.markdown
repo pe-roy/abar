@@ -9,8 +9,9 @@ Também acredito que não fazemos as coisas sozinhos. Sempre somos ou fomos por 
 
 Do nascimento ao leito de morte, sempre precisamos de ajuda e me refiro ao suporte pleno para nascer, o acalento e o cuidado entregue pelo amor materno, e do suporte resignado que encerra o último cuidado permitido.
 
-Se eu sei fazer algo, alguém me ensinou, influenciou, indicou o caminho a seguir ou a não seguir. Os professores, em alguma medida os influencers de antigamente, conseguiram ensinar-me, mesmo que o mérito seja meu, não hesitaria em dizer, nós aprendemos. Paulo Freire diz que:
->*“professor não é aquele que sempre ensina, mas aquele que, de repente, aprende” e aprende junto com o aluno.*
+Se eu sei fazer algo, alguém me ensinou, influenciou, indicou o caminho a seguir ou a não seguir. Os professores, em alguma medida os influencers de antigamente, conseguiram ensinar-me, mesmo que o mérito *também* seja meu, não hesitaria em dizer, nós aprendemos. Paulo Freire diz que:
+>*“professor não é aquele que sempre ensina, mas aquele que, de repente, aprende”*  
+e aprende junto com o aluno.
 
 Assim, o mundo, essa sociedade, é um anelo de servir, onde todos precisam de ajuda e são capazes de ajudar alguém. Ninguém faz nada sozinho, sempre fomos nós ou a gente.
 
@@ -20,8 +21,7 @@ Não fiz nada sozinho, sempre temos ou tivemos o suporte direto e indireto de mu
 
 >*“se ví mais longe é porque me apoiei sobre os ombros de gigantes”*
 
-Posso parafrasear Brecht, sem o talento e a força cognitiva: *Instalei mais de 200 robôs, programei mais de 200 PLC, startei mais de 200 vezes a fábrica da Ford em Camaçarí…*
-
+Posso parafrasear Brecht, sem o talento e a força cognitiva: *Instalei mais de 200 robôs, programei mais de 200 PLC, startei mais de 200 vezes a fábrica da Ford em Camaçarí…*  
 Não tinha ninguém mais? Nem o pessoal da limpeza?
 
 ## Perguntas de um Operário Letrado

@@ -8,7 +8,7 @@ categories: literatura
 Ainda aqui, Laertes! Já devia estar no navio, que diabo!  
 O vento já sopra na proa de teu barco;  
 Só esperam por ti. Vai, com a minha bênção, vai!  
-(Põe a mão na cabeça de Laertes.)  
+  (_Põe a mão na cabeça de Laertes._)  
 
 E trata de guardar estes poucos preceitos:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conselhos de Apolônio a Laertes"
+title:  "Conselhos de Polônio a Laertes"
 date:   2023-03-13 08:00:00 -0300
 categories: literatura
 ---

@@ -4,7 +4,7 @@ title:  "Conselhos de Apolônio a Laertes"
 date:   2023-03-13 08:00:00 -0300
 categories: literatura
 ---
-POLÔNIO:  
+**POLÔNIO**:  
 Ainda aqui, Laertes! Já devia estar no navio, que diabo!  
 O vento já sopra na proa de teu barco;  
 Só esperam por ti. Vai, com a minha bênção, vai!  

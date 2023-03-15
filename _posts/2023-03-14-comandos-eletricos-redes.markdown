@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Série sobre projetos - Redes"
+title:  "Automação - Redes"
 date:   2023-03-14 15:00:00 -0300
 categories: projeto automotiva
 author: Paulo Royer
 ---
-# Projeto Automotivo
 
 ## Automação
 

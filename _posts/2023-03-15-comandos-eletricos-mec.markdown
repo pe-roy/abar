@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Série sobre projetos - Mecânica"
+title:  "Automação - Mecânica"
 date:   2023-03-15 10:00:00 -0300
 categories: projeto automotiva
 author: Paulo Royer
 ---
-# Projeto Automotivo
 
 ## Automação
 

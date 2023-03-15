@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Série sobre projetos - PLC"
+title:  "Automação - PLC"
 date:   2023-03-14 14:00:00 -0300
 categories: projeto automotiva
 author: Paulo Royer
 ---
-# Projeto Automotivo
 
 ## Automação
 

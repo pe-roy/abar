@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Série sobre projetos - Automotivo"
+title:  "Projetos em Automação"
 date:   2023-03-14 08:00:00 -0300
 categories: projeto automotiva
 author: Paulo Royer
 ---
-# Projeto Automotivo
 
-## Automação
+## Automação - Automotiva
 
 A automação em polos automotivos compreende várias disciplinas:
 

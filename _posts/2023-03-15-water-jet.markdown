@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Corte a Jato D'água"
+date:   2023-03-15 16:00:00 -0300
+categories: projeto automotiva
+author: Paulo Royer
+---
+
+O processo de corte a jato de água pode ser descrito como um processo controlado e acelerado de erosão. Por esta razão, um jato de água pode cortar, virtualmente, qualquer material, fazendo deste processo um dos mais versáteis existentes e disponíveis.
+
+- Água sob pressão
+- Corte de materiais diversos
+- Água pura para materiais macios
+- Água com aditivos para materiais duros
+- Garnet - silicatos naturais
+- Areia
+- Óxido de Alumínio
+- Vidro
+- Entre 3 e 4 mil Bar
+- Intensificador hidráulico
+
+## Métodos alternativos e desvantagens
+
+### Die Cut
+
+- Compressão causa depressões
+- Gera resíduos
+
+### Corte a lâmina
+
+- Não permite empilhamento
+- Gera resíduos
+- *'Common line'* não é possível
+
+### Laser
+
+- Risco de incêndio
+- Riscos relacionados a visão
+- Geração de resíduos e gases tóxicos
+
+### Vantagens corte a jato dágua:
+
+- Produz peças com desenhos complexos e com rapidez
+- A área de corte permanece limpa, pois o material de corte é expelido com a água.
+- Baixo custo de manutenção, reduzida quantidade de quebras
+- Sem partes móveis
+- Baixo dano térmico
+- Corte de materiais macios e duros
+- Amigável ao meio ambiente - não gera resíduos
+- Precisão de ±0.005 polegada ou ± 0.13 mm
+
+### Desvantagens
+
+- Materiais muito grossos não podem ser cortados
+- Custo elevado de aquisição quando comparado a outras técnicas
+
+## Manutenção
+
+O reduzido custo de manutenção se aplica ao sistema de corte dágua em si, pois os eixos de movimentação ou o robô vão apresentar os custos de operação e manutenção convencionais.

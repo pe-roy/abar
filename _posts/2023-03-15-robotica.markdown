@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Série sobre projetos - Robótica"
+date:   2023-03-15 14:00:00 -0300
+categories: projeto automotiva
+author: Paulo Royer
+---
+# Projeto Automotivo
+
+## Automação
+
+A automação em polos automotivos compreende várias disciplinas:
+
+- Comandos Elétricos
+- PLC
+- Redes industriais
+- Pneumática
+- Mecânica
+- Robótica
+
+Cada disciplina é um universo inteiro de conhecimentos e não se costuma exigir o domínio em cada disciplina, pois seria algo impossível. É comum, por isso, contar com especialistas em cada uma das mesmas disciplinas.
+
+### Robótica
+
+A robótica, tema de filmes, livros e séries de ficção científica durante muito tempo, está presente na indústria automotiva de maneira firme desde meados da década de 1970.
+
+A possibilidade de repetibilidade e precisão ao longo do tempo de operação de um robô é algo que não se alcança com o ser humano, que se cansa, esquece de dar algum ponto de solda ou aplicar algum trecho de cola, e o carro passa com um defeito que afeta a sua estrutura ou a sua qualidade.
+
+Diversos tipos de robôs hoje em dia permitem as mais variadas aplicações na linha de montagem automotiva, com destaque para:
+
+- Movimentação de peças
+- Aplicação de cola
+- Solda a ponto
+- Solda mig
+- Solda e corte a Laser
+- Aplicação de pinos Stud e tackwelds
+
+Também começam a aparecer aplicações de inspeção de qualidade, validação dimensional e de quantidade de pontos de solda, além dos COBOTS, capazes de trabalhar ao lado de pessoas de maneira segura e confiável.
+
+Os robôs são escolhidos de acordo com sua aplicação, o peso da ferramenta, o alcance que devem ter e o tipo de peça. São controlados em sua maioria por meio de um PLC central que passa os comandos aos diversos robôs e dispositivos da linha de montagem.
+
+Isso não impede que operem de maneira isolada, pois o controlador de cada robô é capaz de ser programado como um PLC e inclusive controlar os outros robôs da célula de montagem, de uma maneira integrada e totalmente descentralizada.
+
+A comunicação entre robôs e PLC é feita via redes industriais, como vimos anteriormente, o que diminui a passagem de fios e cabos, uma vez que a estrutura de rede é ponto a ponto muitas vezes redundante, ao romper um cabo, a comunicação chega ao robô através de um caminho alternativo.

@@ -22,7 +22,7 @@ Cada disciplina é um universo inteiro de conhecimentos e não se costuma exigir
 
 ### Redes Industriais
 
-As redes industriais começaram junto com a eletrônica em circuitos de controle anteriores aos PLC, mas que precisavam comunicação a relativa longa distância. 
+As redes industriais começaram junto com a eletrônica em circuitos de controle anteriores aos PLC, mas que precisavam comunicação a relativa longa distância.
 
 Utilizam um protocolo serial, hoje bem definido e com checagem de erros e qualidade de comunicação.
 

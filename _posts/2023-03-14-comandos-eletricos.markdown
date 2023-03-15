@@ -33,6 +33,7 @@ A segurança e proteção de pessoas também é obtida através de contatores e 
 Sem o uso de PLC, é possível construir um sistema seguro com as técnicas para proteção de pessoas em CAT I, CAT II e até em CAT III e CAT IV, com o uso escalar de relés de segurança, de acordo com a análise de risco.
 
 Toda a documentação do projeto elétrico deve ser desenhada e atualizada em algum software CAD, como *e-plan* ou *see* ou mesmo o *autocad electrical*. Mesmo o autocad padrão também permite desenhar circuitos simples. O desafio ao longo do projeto é manter os desenhos atualizados, um exercício constante.
+
 ### PLC
 
 Do inglês *controlador lógico programável* foi a forma encontrada para tornar as linhas de montagem flexíveis e fáceis de diagnosticar quando houvesse um problema de manutenção, como uma simples falha em algum relé e que devia ser substituído.
@@ -43,7 +44,7 @@ Simplificou em muito a construção de sistemas de automação, uma vez que a co
 
 ### Redes Industriais
 
-As redes industriais começaram junto com a eletrônica em circuitos de controle anteriores aos PLC, mas que precisavam comunicação a relativa longa distância. 
+As redes industriais começaram junto com a eletrônica em circuitos de controle anteriores aos PLC, mas que precisavam comunicação a relativa longa distância.
 
 Utilizam um protocolo serial, hoje bem definido e com checagem de erros e qualidade de comunicação.
 
@@ -56,13 +57,14 @@ Destacam-se hoje as redes:
 - MODBus
 - ProfiNet, ProfiSafe
 - Device-Net
+
 ### Pneumática
 
 A pneumática é a forma mais barata de obter movimentos e travamentos seguros nos diversos dispositivos do setor automotivo. São grampos, cilindros e pinos guia que permitem que as peças sejam presas corretamente e com força adequada até que haja a solda a ponto ou algum tipo de aparafusamento.
 
 Os dispositivos são controlados por PLC ou por lógica de relés através de ilhas de válvulas pneumáticas e sensores acoplados aos cilindros.
 
-Todos esses comandos passam por módulos de entrada e de saída conectados ao PLC da linha. Alguns dispositivos contam com PLC integrado, inclusive de segurança, tornado totalmente ************stand-alone************ e independente.
+Todos esses comandos passam por módulos de entrada e de saída conectados ao PLC da linha. Alguns dispositivos contam com PLC integrado, inclusive de segurança, tornado totalmente **stand-alone** e independente.
 
 ### Mecânica
 
@@ -70,7 +72,7 @@ A mecânica é responsável pelo leiaute completo da linha de montagem, além do
 
 Sempre com a estreita relação entre o controle e o comando feito pelos PLCs ou pelos comandos elétricos, é o que garante a rigidez da montagem dos carros, bem como a precisão e a repetibilidade.
 
-Na Ford e em muitas montadoras americanas, as normas que se devem seguir são as ********NAMS******** e asseguram inclusive uma compatibilidade de estruturas entre as fábricas. No caso de fabricantes europeias, as normas são as ******DIN****** ou **ISO** que norteiam as especificações de construção.
+Na Ford e em muitas montadoras americanas, as normas que se devem seguir são as **NAMS** e asseguram inclusive uma compatibilidade de estruturas entre as fábricas. No caso de fabricantes europeias, as normas são as **DIN** ou **ISO** que norteiam as especificações de construção.
 
 ### Robótica
 

@@ -26,4 +26,4 @@ A mecânica é responsável pelo leiaute completo da linha de montagem, além do
 
 Sempre com a estreita relação entre o controle e o comando feito pelos PLCs ou pelos comandos elétricos, é o que garante a rigidez da montagem dos carros, bem como a precisão e a repetibilidade.
 
-Na Ford e em muitas montadoras americanas, as normas que se devem seguir são as ********NAMS******** e asseguram inclusive uma compatibilidade de estruturas entre as fábricas. No caso de fabricantes europeias, as normas são as ******DIN****** ou **ISO** que norteiam as especificações de construção.
+Na Ford e em muitas montadoras americanas, as normas que se devem seguir são as **NAMS** e asseguram inclusive uma compatibilidade de estruturas entre as fábricas. No caso de fabricantes europeias, as normas são as **DIN** ou **ISO** que norteiam as especificações de construção.

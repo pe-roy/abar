@@ -38,7 +38,7 @@ O processo de corte a jato de água pode ser descrito como um processo controlad
 - Riscos relacionados a visão
 - Geração de resíduos e gases tóxicos
 
-### Vantagens corte a jato dágua:
+### Vantagens corte a jato dágua
 
 - Produz peças com desenhos complexos e com rapidez
 - A área de corte permanece limpa, pois o material de corte é expelido com a água.

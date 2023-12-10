@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "A era da inteligência (artificial)"
+date:   2023-12-10 12:00:00 -0300
+categories: tech 
+author: Paulo Royer
+---
+## I n t e l i g ê n c i a
+Fico pensando se somos inteligência, ou se temos inteligência. Não me parece correto chamar de artificial no sentido de ser a nossa natural.
+
+Bom, é um começo.
